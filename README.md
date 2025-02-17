@@ -1,4 +1,4 @@
-# Arcgis-Dublicates-Selection-
+# Arcgis-Dublicates-Selection
 
 ## Məlumat
 
